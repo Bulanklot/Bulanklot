@@ -9,7 +9,7 @@ I completed the front-end developer course at Yandex Practicum. I want to create
 * 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [https://t.me/sosed\_sverrhu](mailto:https://t.me/sosed_sverrhu)
 * 🧠  I'm learning Ant Design , AXIOS
-* ⚡  I'm legend of Russian rave , but don't tell anyone please ))
+
 
 ### Skills
 

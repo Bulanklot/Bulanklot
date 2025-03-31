@@ -11,7 +11,7 @@ I completed the front-end developer course at Yandex Practicum. I want to create
 * 🧠  I'm learning Ant Design , AXIOS
 
 
-### Skills
+### My Skills
 
 
 <p align="left">
